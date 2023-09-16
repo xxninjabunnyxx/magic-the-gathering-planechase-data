@@ -1,0 +1,18 @@
+---
+object: set
+id: 7137ffeb-eb1d-466c-a0d3-3157f52b1b10
+code: hop
+mtgo_code: pc1
+arena_code: pc1
+tcgplayer_id: 84
+name: Planechase
+uri: https://api.scryfall.com/sets/7137ffeb-eb1d-466c-a0d3-3157f52b1b10
+scryfall_uri: https://scryfall.com/sets/hop
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Ahop&unique=prints
+released_at: '2009-09-04'
+set_type: planechase
+card_count: 169
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/hop.svg?1694404800

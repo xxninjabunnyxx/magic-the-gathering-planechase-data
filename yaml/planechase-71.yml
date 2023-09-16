@@ -1,0 +1,118 @@
+---
+object: card
+id: 338114b1-d83c-4c75-b492-c2d76e291ee4
+oracle_id: cf14d4e5-5965-45ad-97f7-26facf2884b5
+multiverse_ids:
+- 205394
+mtgo_id: 44378
+mtgo_foil_id: 44379
+tcgplayer_id: 37361
+cardmarket_id: 21537
+name: Fertile Ground
+lang: en
+released_at: '2009-09-04'
+uri: https://api.scryfall.com/cards/338114b1-d83c-4c75-b492-c2d76e291ee4
+scryfall_uri: https://scryfall.com/card/hop/71/fertile-ground?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.jpg?1562841683
+  normal: https://cards.scryfall.io/normal/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.jpg?1562841683
+  large: https://cards.scryfall.io/large/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.jpg?1562841683
+  png: https://cards.scryfall.io/png/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.png?1562841683
+  art_crop: https://cards.scryfall.io/art_crop/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.jpg?1562841683
+  border_crop: https://cards.scryfall.io/border_crop/front/3/3/338114b1-d83c-4c75-b492-c2d76e291ee4.jpg?1562841683
+mana_cost: "{1}{G}"
+cmc: 2.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant land
+  Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Enchant
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7137ffeb-eb1d-466c-a0d3-3157f52b1b10
+set: hop
+set_name: Planechase
+set_type: planechase
+set_uri: https://api.scryfall.com/sets/7137ffeb-eb1d-466c-a0d3-3157f52b1b10
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahop&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/hop?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/338114b1-d83c-4c75-b492-c2d76e291ee4/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acf14d4e5-5965-45ad-97f7-26facf2884b5&unique=prints
+collector_number: '71'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 5b88c380-6036-4aab-a2bf-ef989a95930a
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 667
+penny_rank: 1289
+prices:
+  usd: '0.28'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.55'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205394
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fertile+Ground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fertile+Ground&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fertile+Ground
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/37361?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fertile+Ground&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/44378?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
